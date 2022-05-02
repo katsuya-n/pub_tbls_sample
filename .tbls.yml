@@ -1,0 +1,2 @@
+dsn: mysql://root:password@localhost:3306/tbls_app
+docPath: ref
